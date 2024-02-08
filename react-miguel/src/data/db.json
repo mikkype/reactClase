@@ -1,0 +1,29 @@
+{
+    "recetas"  :[
+    {
+        "nombre" :"Recetario",
+        "receta" : "Pizza raul",
+        "imagen" : "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/10/20/pizza.jpeg",
+        "calorias" : 250,
+        "Ingredientes" : [
+            "Harina de trigo","PEPERONI","levadura"
+        ]
+
+    },
+    {
+
+        "nombre" :"Recetario",
+        "receta" : "Pizza Hawaiana",
+        "imagen" : "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/08/08/fotografia-de-una-pizza.jpeg",
+        "calorias" : 250,
+        "Ingredientes" : [
+            "Harina de trigo","piña","levadura"
+        ]
+    }
+
+
+
+    ]
+}
+
+
